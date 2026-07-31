@@ -1,0 +1,14 @@
+steps = [
+    "Forest",
+    "River",
+    "Bridge",
+    "Mountain",
+    "Treasure"
+]
+
+print("=== TREASURE HUNT ===")
+
+for place in steps:
+    print("Reached:", place)
+
+print("Treasure Found!")
